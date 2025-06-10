@@ -37,12 +37,6 @@ func main() {
 	for {
 		fmt.Println("\n=== Aplikasi Dosen Wali ===")
 		fmt.Println("1. Tambah Mahasiswa")
-		fmt.Println("2. Tambah Mata Kuliah")
-		fmt.Println("3. Tambah Nilai")
-		fmt.Println("4. Lihat Daftar Mahasiswa")
-		fmt.Println("5. Cari Mahasiswa (NIM/Nama)")
-		fmt.Println("6. Urutkan Mahasiswa (IPK/Nama)")
-		fmt.Println("7. Keluar")
 		fmt.Println("2. Tambah Nilai")
 		fmt.Println("3. Lihat Daftar Mahasiswa")
 		fmt.Println("4. Cari Mahasiswa (NIM/Nama)")
